@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shamil-SHCK
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning java
+- 👀 I’m interested in cyber security ,web designing 
+- 🌱 I’m currently learning java,psql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shamil.shck@gmail.com
 - 😄 Pronouns: he/him
