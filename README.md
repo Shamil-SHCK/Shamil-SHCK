@@ -30,11 +30,15 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamil-shck&theme=dark" alt="shamil-shck" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shamil-shck&show_icons=true&theme=dark" alt="shamil-shck" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamil-shck&layout=compact&theme=dark" alt="shamil-shck" width="40%"/>
 </p>
+
+
+![](https://nirzak-streak-stats.vercel.app/?user=Shamil-SHCK&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamil-SHCK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shamil-SHCK&limit=5&theme=dark&combine_all_yearly_contributions=true)
