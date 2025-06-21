@@ -38,8 +38,9 @@
 
 <p align="center">
 ![](https://nirzak-streak-stats.vercel.app/?user=Shamil-SHCK&theme=dark&hide_border=false)<br/>
+</p>
 
-
+<p align="center">
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shamil-SHCK&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
