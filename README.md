@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learn web development<br>I'm curious about cybersecurity<br>I'm tech enthusiast
+I'm tech enthusiast<br>I'm currently learn web development<br>I'm curious about cybersecurity<br>
 
 
 ## 🌐 Socials:
