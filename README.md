@@ -17,4 +17,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamil-shck&show_icons=true&locale=en" alt="shamil-shck" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamil-shck&" alt="shamil-shck" /></p>
