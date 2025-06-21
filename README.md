@@ -36,12 +36,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamil-shck&layout=compact&theme=dark" alt="shamil-shck" width="40%"/>
 </p>
 
-<p align="center">
+<section align="center">
 ![](https://nirzak-streak-stats.vercel.app/?user=Shamil-SHCK&theme=dark&hide_border=false)<br/>
-</p>
+</section>
 
-<p align="center">
+<section align="center">
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shamil-SHCK&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</p>
+</section>
