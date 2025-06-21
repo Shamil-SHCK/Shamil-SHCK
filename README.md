@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @Shamil-SHCK
-- 👀 I’m interested in cyber security ,web designing 
-- 🌱 I’m currently learning javascript
-- 📫 How to reach me shamil.shck@gmail.com
-- 😄 Pronouns: he/him
 
 <h1 align="center">Hi 👋, I'm Shamil Hanan</h1>
 <h3 align="center">Tech enthusiast | Web dev learner | Cybersecurity curious</h3>
+- 😄 Pronouns: he/him
 
-- 📫 How to reach me **shamil.ck321@gmail.com**
+- 📫 How to reach me ** shamil.shck@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
